@@ -3,13 +3,10 @@
 [![Mac](https://github.com/ainsleyclark/system-setup/actions/workflows/mac.yml/badge.svg?branch=master)](https://github.com/ainsleyclark/system-setup/actions/workflows/mac.yml)
 [![Ubuntu](https://github.com/ainsleyclark/system-setup/actions/workflows/ubuntu.yml/badge.svg?branch=master)](https://github.com/ainsleyclark/system-setup/actions/workflows/ubuntu.yml)
 
-These scripts are designed to set up a dev workstation on macOS and Ubuntu. These scripts install programming languages
-IDEs, productivity and communication applications as well as developer tools. You can see a list of what it installs
-below.
+Forked from fellow dev [Ainsley Clarks System Setup](https://github.com/ainsleyclark/system-setup) 💡
 
-## Important Note:
-I understand these applications may not be for everyone, so please feel free to fork and edit as much as you want, it's
-merley a boilerplate to go off!
+Tweaked for personal preference.
+
 
 ## How to use
 Simply download this repo or clone it and run the following:
